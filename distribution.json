@@ -15,7 +15,7 @@
             "name": "MoonBlock",
             "description": "Bienvenue sur mon serveur personnalisé !",
             "icon": "http://ton-domaine.com/path-to-icon.png",
-            "version": "1.0.0",
+            "version": "Saison 1",
             "address": "localhost",
             "minecraftVersion": "1.21.4",
             "discord": {
