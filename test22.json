@@ -1,0 +1,34 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "",
+        "smallImageText": "",
+        "smallImageKey": ""
+    },
+    "java": {
+        "oracle": ""
+    },
+    "rss": "",
+    "servers": [
+        {
+            "id": "moonblock",
+            "name": "MoonBlock",
+            "description": "test",
+            "icon": "http://ton-domaine.com/path-to-icon.png",
+            "version": "1.0.0",
+            "address": "localhost",
+            "minecraftVersion": "1.21.4",
+            "discord": {
+                "shortId": "MonServeur",
+                "largeImageText": "Mon Super Serveur",
+                "largeImageKey": "server-icon"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                
+            ]
+        }
+    
+    ]
+}
